@@ -1,5 +1,13 @@
 # site
 
+## 0.0.42
+
+### Patch Changes
+
+- 840a959: Add Phantom wallet support
+- Updated dependencies [840a959]
+  - @rainbow-me/rainbowkit@0.8.1
+
 ## 0.0.41
 
 ### Patch Changes
